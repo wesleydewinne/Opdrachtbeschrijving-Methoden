@@ -6,6 +6,10 @@ public class B_Dialoog {
         // De methode heeft als parameter de tekst die gesproken moet worden.
         // De volgende zin wordt steeds door de ander gesproken.
         // Vervang System.out.println() steeds door je eigen method.
+
+        String name1 = "Bert";
+        String name2 = "Ernie";
+
         System.out.println("Hey"); //Bert
         System.out.println("Hey"); //Ernie
         System.out.println("Welcome to this wonderful conversation");
@@ -19,4 +23,6 @@ public class B_Dialoog {
     }
 
     // nieuwe methods komen hier
+
+
 }
